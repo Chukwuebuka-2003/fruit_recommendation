@@ -1,0 +1,201 @@
+UserID,Age,Gender,HealthCondition,RecommendedFruit,RecommendedVegetable,Feedback
+1,34,Female,Hypertension,Banana,Spinach,Positive
+2,45,Male,Diabetes,Apple,Carrot,Neutral
+3,29,Female,Obesity,Berries,Broccoli,Positive
+4,52,Male,Heart Disease,Orange,Kale,Negative
+5,23,Non-binary,Anemia,Strawberry,Beetroot,Positive
+6,37,Female,High Cholesterol,Kiwi,Green Beans,Neutral
+7,41,Male,Hypertension,Papaya,Zucchini,Positive
+8,30,Female,Diabetes,Guava,Brussels Sprouts,Negative
+9,55,Male,Obesity,Peach,Cabbage,Neutral
+10,22,Female,Heart Disease,Mango,Spinach,Positive
+11,28,Male,Anemia,Cherry,Carrot,Positive
+12,60,Non-binary,High Cholesterol,Grape,Kale,Neutral
+13,33,Female,Hypertension,Pear,Green Beans,Negative
+14,44,Male,Diabetes,Watermelon,Zucchini,Positive
+15,39,Female,Obesity,Pineapple,Brussels Sprouts,Neutral
+16,50,Male,Heart Disease,Apricot,Cabbage,Negative
+17,27,Female,Anemia,Fig,Spinach,Positive
+18,35,Male,High Cholesterol,Plum,Carrot,Positive
+19,48,Female,Hypertension,Lemon,Kale,Neutral
+20,32,Non-binary,Diabetes,Lime,Green Beans,Positive
+21,53,Female,Obesity,Mandarin,Zucchini,Negative
+22,36,Male,Heart Disease,Nectarine,Brussels Sprouts,Neutral
+23,26,Female,Anemia,Pomegranate,Cabbage,Positive
+24,40,Male,High Cholesterol,Raspberry,Spinach,Positive
+25,47,Female,Hypertension,Strawberry,Carrot,Neutral
+26,34,Non-binary,Diabetes,Blueberry,Kale,Negative
+27,38,Male,Obesity,Blackberry,Green Beans,Positive
+28,49,Female,Heart Disease,Date,Zucchini,Positive
+29,42,Male,Anemia,Dragon Fruit,Brussels Sprouts,Neutral
+30,31,Female,High Cholesterol,Durian,Cabbage,Negative
+31,45,Male,Hypertension,Elderberry,Spinach,Positive
+32,29,Female,Diabetes,Grapefruit,Carrot,Positive
+33,51,Non-binary,Obesity,Honeydew,Kale,Neutral
+34,25,Male,Heart Disease,Jackfruit,Green Beans,Negative
+35,46,Female,Anemia,Kumquat,Zucchini,Positive
+36,37,Male,High Cholesterol,Lychee,Brussels Sprouts,Positive
+37,43,Female,Hypertension,Mulberry,Cabbage,Neutral
+38,54,Male,Diabetes,Nance,Spinach,Positive
+39,28,Female,Obesity,Olallieberry,Carrot,Negative
+40,39,Male,Heart Disease,Passion Fruit,Kale,Positive
+41,50,Non-binary,Anemia,Quince,Green Beans,Neutral
+42,33,Female,High Cholesterol,Rambutan,Zucchini,Positive
+43,44,Male,Hypertension,Sapote,Brussels Sprouts,Negative
+44,35,Female,Diabetes,Soursop,Cabbage,Positive
+45,41,Male,Obesity,Tamarind,Spinach,Positive
+46,52,Female,Heart Disease,Ugli Fruit,Carrot,Neutral
+47,31,Male,Anemia,Voavanga,Kale,Negative
+48,48,Female,High Cholesterol,Watermelon,Green Beans,Positive
+49,27,Non-binary,Hypertension,Xigua,Zucchini,Positive
+50,36,Male,Diabetes,Yellow Passion Fruit,Brussels Sprouts,Neutral
+51,45,Female,Obesity,Zucchini,Cabbage,Positive
+52,53,Male,Heart Disease,Apple,Spinach,Negative
+53,32,Female,Anemia,Banana,Carrot,Positive
+54,42,Non-binary,High Cholesterol,Cherry,Kale,Positive
+55,38,Male,Hypertension,Date,Green Beans,Neutral
+56,49,Female,Diabetes,Fig,Zucchini,Negative
+57,30,Male,Obesity,Grape,Brussels Sprouts,Positive
+58,47,Female,Heart Disease,Kiwi,Cabbage,Positive
+59,35,Non-binary,Anemia,Lemon,Spinach,Neutral
+60,29,Female,High Cholesterol,Orange,Carrot,Negative
+61,50,Male,Hypertension,Papaya,Kale,Positive
+62,33,Female,Diabetes,Pear,Green Beans,Positive
+63,55,Male,Obesity,Plum,Zucchini,Neutral
+64,34,Non-binary,Heart Disease,Pomegranate,Brussels Sprouts,Positive
+65,39,Female,Anemia,Raspberry,Cabbage,Negative
+66,41,Male,High Cholesterol,Strawberry,Spinach,Positive
+67,28,Female,Hypertension,Watermelon,Carrot,Positive
+68,48,Male,Diabetes,Blueberry,Kale,Neutral
+69,37,Non-binary,Obesity,Blackberry,Green Beans,Positive
+70,52,Female,Heart Disease,Dragon Fruit,Zucchini,Negative
+71,31,Male,Anemia,Durian,Brussels Sprouts,Positive
+72,46,Female,High Cholesterol,Elderberry,Cabbage,Positive
+73,27,Male,Hypertension,Grapefruit,Spinach,Neutral
+74,44,Female,Diabetes,Guava,Carrot,Negative
+75,40,Male,Obesity,Honeydew,Kale,Positive
+76,50,Non-binary,Heart Disease,Jackfruit,Green Beans,Positive
+77,35,Female,Anemia,Kumquat,Zucchini,Neutral
+78,29,Male,High Cholesterol,Lychee,Brussels Sprouts,Negative
+79,47,Female,Hypertension,Mango,Cabbage,Positive
+80,53,Male,Diabetes,Orange,Spinach,Positive
+81,36,Non-binary,Obesity,Pear,Carrot,Neutral
+82,33,Female,Heart Disease,Pineapple,Kale,Negative
+83,41,Male,Anemia,Pomegranate,Green Beans,Positive
+84,30,Female,High Cholesterol,Raspberry,Zucchini,Positive
+85,49,Male,Hypertension,Strawberry,Brussels Sprouts,Neutral
+86,38,Non-binary,Diabetes,Watermelon,Cabbage,Positive
+87,32,Female,Obesity,Blueberry,Spinach,Negative
+88,44,Male,Heart Disease,Blackberry,Carrot,Positive
+89,37,Female,Anemia,Dragon Fruit,Kale,Positive
+90,55,Male,High Cholesterol,Durian,Green Beans,Neutral
+91,50,Non-binary,Hypertension,Elderberry,Zucchini,Positive
+92,31,Female,Diabetes,Fig,Brussels Sprouts,Negative
+93,46,Male,Obesity,Grape,Cabbage,Positive
+94,34,Female,Heart Disease,Kiwi,Spinach,Positive
+95,48,Male,Anemia,Lemon,Carrot,Neutral
+96,29,Female,High Cholesterol,Orange,Kale,Negative
+97,45,Male,Hypertension,Papaya,Green Beans,Positive
+98,33,Non-binary,Diabetes,Pear,Zucchini,Positive
+99,52,Female,Obesity,Plum,Brussels Sprouts,Neutral
+100,38,Male,Heart Disease,Pomegranate,Cabbage,Positive
+101,32,Female,Anemia,Raspberry,Spinach,Negative
+102,41,Male,High Cholesterol,Strawberry,Carrot,Positive
+103,49,Non-binary,Hypertension,Watermelon,Kale,Positive
+104,27,Female,Diabetes,Blueberry,Green Beans,Neutral
+105,37,Male,Obesity,Blackberry,Zucchini,Positive
+106,50,Female,Heart Disease,Dragon Fruit,Brussels Sprouts,Negative
+107,29,Male,Anemia,Durian,Cabbage,Positive
+108,44,Non-binary,High Cholesterol,Elderberry,Spinach,Positive
+109,33,Female,Hypertension,Fig,Carrot,Neutral
+110,46,Male,Diabetes,Grape,Kale,Negative
+111,28,Female,Obesity,Kiwi,Green Beans,Positive
+112,53,Male,Heart Disease,Lemon,Zucchini,Positive
+113,36,Non-binary,Anemia,Orange,Brussels Sprouts,Neutral
+114,35,Female,High Cholesterol,Papaya,Cabbage,Negative
+115,48,Male,Hypertension,Pear,Spinach,Positive
+116,31,Female,Diabetes,Plum,Carrot,Positive
+117,50,Male,Obesity,Pomegranate,Kale,Neutral
+118,39,Female,Heart Disease,Raspberry,Green Beans,Positive
+119,55,Male,Anemia,Strawberry,Zucchini,Negative
+120,34,Non-binary,High Cholesterol,Watermelon,Brussels Sprouts,Positive
+121,42,Female,Hypertension,Blueberry,Cabbage,Positive
+122,29,Male,Diabetes,Blackberry,Spinach,Neutral
+123,47,Female,Obesity,Dragon Fruit,Carrot,Negative
+124,30,Male,Heart Disease,Durian,Kale,Positive
+125,51,Non-binary,Anemia,Elderberry,Green Beans,Positive
+126,33,Female,High Cholesterol,Fig,Zucchini,Neutral
+127,40,Male,Hypertension,Grape,Brussels Sprouts,Negative
+128,37,Female,Diabetes,Kiwi,Cabbage,Positive
+129,44,Male,Obesity,Lemon,Spinach,Positive
+130,27,Female,Heart Disease,Orange,Carrot,Neutral
+131,53,Non-binary,Anemia,Papaya,Kale,Negative
+132,35,Male,High Cholesterol,Pear,Green Beans,Positive
+133,32,Female,Hypertension,Plum,Zucchini,Positive
+134,48,Male,Diabetes,Pomegranate,Brussels Sprouts,Neutral
+135,29,Female,Obesity,Raspberry,Cabbage,Positive
+136,50,Male,Heart Disease,Strawberry,Spinach,Negative
+137,39,Non-binary,Anemia,Watermelon,Carrot,Positive
+138,33,Female,High Cholesterol,Blueberry,Kale,Positive
+139,46,Male,Hypertension,Blackberry,Green Beans,Neutral
+140,31,Female,Diabetes,Dragon Fruit,Zucchini,Negative
+141,42,Male,Obesity,Durian,Brussels Sprouts,Positive
+142,49,Female,Heart Disease,Elderberry,Cabbage,Positive
+143,36,Male,Anemia,Fig,Spinach,Neutral
+144,44,Non-binary,High Cholesterol,Grape,Carrot,Negative
+145,30,Female,Hypertension,Kiwi,Kale,Positive
+146,50,Male,Diabetes,Lemon,Green Beans,Positive
+147,28,Female,Obesity,Orange,Zucchini,Neutral
+148,47,Male,Heart Disease,Papaya,Brussels Sprouts,Negative
+149,35,Female,Anemia,Pear,Cabbage,Positive
+150,52,Non-binary,High Cholesterol,Plum,Spinach,Positive
+151,39,Male,Hypertension,Pomegranate,Carrot,Neutral
+152,31,Female,Diabetes,Raspberry,Kale,Negative
+153,55,Male,Obesity,Strawberry,Green Beans,Positive
+154,33,Female,Heart Disease,Watermelon,Zucchini,Positive
+155,48,Male,Anemia,Blueberry,Brussels Sprouts,Neutral
+156,29,Female,High Cholesterol,Blackberry,Cabbage,Negative
+157,41,Male,Hypertension,Dragon Fruit,Spinach,Positive
+158,30,Non-binary,Diabetes,Durian,Carrot,Positive
+159,53,Female,Obesity,Elderberry,Kale,Neutral
+160,36,Male,Heart Disease,Fig,Green Beans,Negative
+161,45,Female,Anemia,Grape,Zucchini,Positive
+162,32,Non-binary,High Cholesterol,Kiwi,Brussels Sprouts,Positive
+163,47,Male,Hypertension,Lemon,Cabbage,Neutral
+164,28,Female,Diabetes,Orange,Spinach,Negative
+165,50,Male,Obesity,Papaya,Carrot,Positive
+166,39,Non-binary,Heart Disease,Pear,Kale,Positive
+167,33,Female,Anemia,Plum,Green Beans,Neutral
+168,44,Male,High Cholesterol,Pomegranate,Zucchini,Negative
+169,29,Female,Hypertension,Raspberry,Brussels Sprouts,Positive
+170,41,Male,Diabetes,Strawberry,Cabbage,Positive
+171,53,Non-binary,Obesity,Watermelon,Spinach,Neutral
+172,34,Female,Heart Disease,Blueberry,Carrot,Negative
+173,45,Male,Anemia,Blackberry,Kale,Positive
+174,38,Female,High Cholesterol,Dragon Fruit,Green Beans,Positive
+175,50,Male,Hypertension,Durian,Zucchini,Neutral
+176,31,Non-binary,Diabetes,Elderberry,Brussels Sprouts,Negative
+177,29,Female,Obesity,Fig,Cabbage,Positive
+178,46,Male,Heart Disease,Grape,Spinach,Positive
+179,32,Female,Anemia,Kiwi,Carrot,Neutral
+180,53,Male,High Cholesterol,Lemon,Kale,Negative
+181,39,Non-binary,Hypertension,Orange,Green Beans,Positive
+182,27,Female,Diabetes,Papaya,Zucchini,Positive
+183,41,Male,Obesity,Pear,Brussels Sprouts,Neutral
+184,36,Female,Heart Disease,Plum,Cabbage,Negative
+185,55,Male,Anemia,Pomegranate,Spinach,Positive
+186,34,Non-binary,High Cholesterol,Raspberry,Carrot,Positive
+187,50,Female,Hypertension,Strawberry,Kale,Neutral
+188,31,Male,Diabetes,Watermelon,Green Beans,Negative
+189,45,Female,Obesity,Blueberry,Zucchini,Positive
+190,37,Male,Heart Disease,Blackberry,Brussels Sprouts,Positive
+191,42,Non-binary,Anemia,Dragon Fruit,Cabbage,Neutral
+192,28,Female,High Cholesterol,Durian,Spinach,Negative
+193,48,Male,Hypertension,Elderberry,Carrot,Positive
+194,36,Female,Diabetes,Fig,Kale,Positive
+195,31,Male,Obesity,Grape,Green Beans,Neutral
+196,55,Non-binary,Heart Disease,Kiwi,Zucchini,Negative
+197,44,Female,Anemia,Lemon,Brussels Sprouts,Positive
+198,29,Male,High Cholesterol,Orange,Cabbage,Positive
+199,50,Female,Hypertension,Papaya,Spinach,Neutral
+200,37,Male,Diabetes,Pear,Carrot,Negative
